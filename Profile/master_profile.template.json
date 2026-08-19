@@ -1,0 +1,62 @@
+{
+  "personal": {
+    "full_name": "REPLACE: Your full name",
+    "email": "REPLACE: your@email.com",
+    "phone": "REPLACE: optional",
+    "location": "REPLACE: City, Country",
+    "links": {
+      "linkedin": "REPLACE: optional URL",
+      "github": "REPLACE: optional URL",
+      "portfolio": "REPLACE: optional URL"
+    }
+  },
+
+  "summary": "REPLACE: 2-4 sentences about who you are professionally. Be broad here - the tailoring script will narrow this down per job, so give it plenty to work with.",
+
+  "skills": {
+    "languages": ["REPLACE: e.g. Python", "JavaScript"],
+    "frameworks_tools": ["REPLACE: e.g. React", "Flask", "Git"],
+    "other": ["REPLACE: e.g. SQL", "REST APIs", "Agile"]
+  },
+
+  "experience": [
+    {
+      "title": "REPLACE: Job title or role (include class projects / internships if no formal jobs yet)",
+      "organization": "REPLACE: Company/org name",
+      "location": "REPLACE: City or Remote",
+      "start_date": "REPLACE: YYYY-MM",
+      "end_date": "REPLACE: YYYY-MM or 'Present'",
+      "achievements": [
+        "REPLACE: One accomplishment per line. Use action verb + what you did + measurable result if possible. e.g. 'Built a Flask API that reduced manual data entry time by 30%'",
+        "REPLACE: Add as many as apply - the tailoring script will pick the most relevant ones per job, so more raw material is better"
+      ],
+      "technologies": ["REPLACE: e.g. Python", "PostgreSQL"]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "REPLACE: Project name (this is where your 'minor projects done here' go)",
+      "description": "REPLACE: What it does and why you built it",
+      "achievements": [
+        "REPLACE: What you specifically did/built, same style as experience achievements"
+      ],
+      "technologies": ["REPLACE: e.g. Python", "React"],
+      "link": "REPLACE: optional URL (GitHub repo, live demo, etc.)"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "REPLACE: e.g. B.S. Computer Science",
+      "institution": "REPLACE: College name",
+      "location": "REPLACE: City",
+      "graduation_date": "REPLACE: YYYY-MM or expected date",
+      "relevant_coursework": ["REPLACE: optional, e.g. Data Structures", "Algorithms"]
+    }
+  ],
+
+  "certifications": [
+    "REPLACE: optional, e.g. 'AWS Cloud Practitioner - 2025'"
+  ]
+}
