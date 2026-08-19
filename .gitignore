@@ -1,4 +1,7 @@
-Profile/master_profile.json
+profile/master_profile.json
 jobs_found.json
+workday_jobs_found.json
+applications/
+applications_log.csv
 .env
 __pycache__/
